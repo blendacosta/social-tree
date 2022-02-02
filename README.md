@@ -4,7 +4,7 @@ A page with a list of links that can be used in social network profiles!
 
 ---
 
-## layout
+## layout (see here: [👻](https://blendacosta.github.io/social-tree/))
 
 ![https://cdn.discordapp.com/attachments/899654804719145041/938481296362061884/social-tree.png](https://cdn.discordapp.com/attachments/899654804719145041/938481296362061884/social-tree.png)
 
